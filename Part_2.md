@@ -404,7 +404,7 @@ def fetch(self, url):
 ```
 Довольные полученным результатом, мы возвращаемся к нашей первоначальной назначение: написать асинхронный веб-сканер с использованием ```asyncio```.  
 
-[Продолжение статьи]()
+[Продолжение статьи](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_3.md)
 
 
 

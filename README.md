@@ -34,6 +34,6 @@ _Гвидо ван Россум является создателем языка
 
 ---
 
-[Часть 1](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_1.md)
-[Часть 2]()
-[Часть 3]()
+[Часть 1](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_1.md) / 
+[Часть 2](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_2.md) / 
+[Часть 3](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_3.md) 
