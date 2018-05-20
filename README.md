@@ -1,5 +1,10 @@
 # Веб бот, использующий сопрограммы asyncio
 
+[Часть 1](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_1.md) / 
+[Часть 2](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_2.md) / 
+[Часть 3](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_3.md) 
+---
+
 Предварительная публикация главы из сборника "500 строк или меньше", новой книги серии [«The Architecture of Open Source Applications»](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)  
 
 Оригинал: ["A Web Crawler With asyncio Coroutines"](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)  
@@ -33,7 +38,6 @@ _А. Джесси Джури Дэвис работает инженером в M
 _Гвидо ван Россум является создателем языка Python, одного из основных языков программирования, используемого как в сети, так и вне сети. Сообщество Python называет его великодушным диктатором (BDFL - Benevolent Dictator For Life), титулом, взятом непосредственно из пародии Монти Пайтона. Домашекй страничкой Гвидо в сети является [http://www.python.org/~guido/](http://www.python.org/~guido/)._
 
 ---
-
 [Часть 1](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_1.md) / 
 [Часть 2](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_2.md) / 
 [Часть 3](https://github.com/igorzakhar/Web-crawler-with-asyncio-coroutines/blob/master/Part_3.md) 
