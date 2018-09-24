@@ -67,7 +67,7 @@ _Рис. 9.1 Вызовы функций_
 
 ```python
 >>> # The generator flag is bit position 5.
->>> generator_bit = 1 < 5
+>>> generator_bit = 1 << 5
 >>> bool(gen_fn.__code__.co_flags & generator_bit)
 True
 ```
